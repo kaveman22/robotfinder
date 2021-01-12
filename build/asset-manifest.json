@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robotfinder/static/css/main.5ad32262.chunk.css",
+    "main.js": "/robotfinder/static/js/main.8944c705.chunk.js",
+    "main.js.map": "/robotfinder/static/js/main.8944c705.chunk.js.map",
+    "runtime-main.js": "/robotfinder/static/js/runtime-main.35f46876.js",
+    "runtime-main.js.map": "/robotfinder/static/js/runtime-main.35f46876.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robotfinder/static/css/2.31461e4f.chunk.css",
+    "static/js/2.e7eaf872.chunk.js": "/robotfinder/static/js/2.e7eaf872.chunk.js",
+    "static/js/2.e7eaf872.chunk.js.map": "/robotfinder/static/js/2.e7eaf872.chunk.js.map",
+    "static/js/3.5218428c.chunk.js": "/robotfinder/static/js/3.5218428c.chunk.js",
+    "static/js/3.5218428c.chunk.js.map": "/robotfinder/static/js/3.5218428c.chunk.js.map",
+    "index.html": "/robotfinder/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robotfinder/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.5ad32262.chunk.css.map": "/robotfinder/static/css/main.5ad32262.chunk.css.map",
+    "static/js/2.e7eaf872.chunk.js.LICENSE.txt": "/robotfinder/static/js/2.e7eaf872.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robotfinder/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35f46876.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.e7eaf872.chunk.js",
+    "static/css/main.5ad32262.chunk.css",
+    "static/js/main.8944c705.chunk.js"
+  ]
+}
